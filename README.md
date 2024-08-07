@@ -40,7 +40,7 @@ Here are some screenshots of the app:
 
 Check out these GIFs showcasing the app in action:
 
-![App Demo](https://github.com/sakibahmedshanto/pastryparadise/gif.gif)
+![App Demo](gif.gif)
 
 ## Web Version
 

@@ -1,4 +1,4 @@
-Sure, here is the updated README with the link to the web app version of Pastry Paradise:
+Here's the updated README file with a section for GIFs included:
 
 ---
 
@@ -9,8 +9,8 @@ Pastry Paradise is an Android application developed using Flutter. It allows use
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [GIFs](#gifs)
 - [Web Version](#web-version)
 - [Contact](#contact)
 
@@ -28,62 +28,28 @@ Pastry Paradise is an Android application developed using Flutter. It allows use
   - Firebase Authentication
   - Firebase Cloud Messaging for push notifications
 
-## Installation
+## Screenshots
 
-### Prerequisites
+Here are some screenshots of the app:
 
-- Flutter SDK: [Flutter installation guide](https://flutter.dev/docs/get-started/install)
-- Firebase account: [Firebase Console](https://console.firebase.google.com/)
+![Home Screen](https://github.com/sakibahmedshanto/pastryparadise/1.jpg)
+![Pastry List](https://github.com/yourusername/yourrepository/raw/main/assets/pastry_list.png)
+![Order Screen](https://github.com/yourusername/yourrepository/raw/main/assets/order.png)
 
-### Steps
+## GIFs
 
-1. Clone the repository:
+Check out these GIFs showcasing the app in action:
 
-   ```bash
-   git clone https://github.com/sakibahmedshanto/pastryparadise.git
-   cd pastry-paradise
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   flutter pub get
-   ```
-
-3. Set up Firebase:
-
-   - Create a new project in the [Firebase Console](https://console.firebase.google.com/).
-   - Add an Android app to your Firebase project.
-   - Follow the instructions to download the `google-services.json` file and place it in the `android/app` directory.
-   - Enable Firebase Authentication and Firestore in the Firebase Console.
-
-4. Run the app:
-
-   ```bash
-   flutter run
-   ```
-
-## Usage
-
-1. **Authentication**:
-   - Users can sign up or log in using Google or email.
-   - The app will send push notifications to users about updates and promotions.
-
-2. **Purchasing Pastries**:
-   - Browse through a variety of pastries and cakes.
-   - Select and purchase your desired items.
-   - Receive notifications about your order status.
+![App Demo](https://github.com/sakibahmedshanto/pastryparadise/gif.gif)
 
 ## Web Version
 
-Pastry Paradise also has a web app version designed for mobile devices. You can access it [here](imas-pastry-paradise.web.app).
-
-
+Pastry Paradise also has a web app version designed for mobile devices. You can access it [here](#) (replace `#` with the actual URL of your web app).
 
 ## Contact
 
-For any questions or suggestions, please contact [sakibsanto57@gmail.com].
+For any questions or suggestions, please contact [your-email@example.com].
 
 ---
 
-Feel free to customize the content as needed and replace placeholders with your actual details.
+Feel free to replace the placeholders with your actual URLs and information. This README now includes a GIF section to showcase your app's functionality visually.

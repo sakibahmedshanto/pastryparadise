@@ -28,28 +28,34 @@ Pastry Paradise is an Android application developed using Flutter. It allows use
   - Firebase Authentication
   - Firebase Cloud Messaging for push notifications
 
-## Screenshots
-
-Here are some screenshots of the app:
-
-![Home Screen](https://github.com/sakibahmedshanto/pastryparadise/1.jpg)
-![Pastry List](https://github.com/yourusername/yourrepository/raw/main/assets/pastry_list.png)
-![Order Screen](https://github.com/yourusername/yourrepository/raw/main/assets/order.png)
-
 ## GIFs
 
 Check out these GIFs showcasing the app in action:
 
 ![App Demo](gif.gif)
 
+
+
+## Screenshots
+
+Here are some screenshots of the app:
+![Splash Screen](1.jpg)
+![Welcome Screen](2.jpg)
+![Login With Google](3.jpg)
+![Home Screen](4.jpg)
+![Drawer Sreen](5.jpg)
+![Product_Details Sreen](6.jpg)
+![Cart Sreen](8.jpg)
+![Order Sreen](order.jpg)
+![Contact Sreen](10.jpg)
+
+
+
 ## Web Version
 
-Pastry Paradise also has a web app version designed for mobile devices. You can access it [here](#) (replace `#` with the actual URL of your web app).
+Pastry Paradise also has a web app version designed for mobile devices. You can access it [here](https://saimas-pastry-paradise.web.app/) 
 
 ## Contact
 
-For any questions or suggestions, please contact [your-email@example.com].
+For any questions or suggestions, please contact [sakibsanto57@gmail.com].
 
----
-
-Feel free to replace the placeholders with your actual URLs and information. This README now includes a GIF section to showcase your app's functionality visually.

@@ -32,16 +32,22 @@ Check out these GIFs showcasing the app in action:
 
 ## Screenshots
 
-Here are some screenshots of the app:
-![Splash Screen](1.jpg)
-![Welcome Screen](2.jpg)
-![Login With Google](3.jpg)
-![Home Screen](4.jpg)
-![Drawer Screen](5.jpg)
-![Product_Details Screen](6.jpg)
-![Cart Screen](8.jpg)
-![Order Screen](order.jpg)
-![Contact Screen](10.jpg)
+Here are some screenshots from the app, grouped to save space:
+
+### Onboarding and Authentication
+| Splash Screen | Welcome Screen | Login with Google |
+|---------------|----------------|-------------------|
+| ![Splash Screen](1.jpg) | ![Welcome Screen](2.jpg) | ![Login with Google](3.jpg) |
+
+### Main Features
+| Home Screen | Drawer Screen | Product Details Screen |
+|-------------|---------------|------------------------|
+| ![Home Screen](4.jpg) | ![Drawer Screen](5.jpg) | ![Product Details Screen](6.jpg) |
+
+### Cart and Orders
+| Cart Screen | Order Confirmation | Contact Screen |
+|-------------|--------------|----------------|
+| ![Cart Screen](8.jpg) | ![Order Screen](9.jpg) | ![Contact Screen](10.jpg) |
 
 ## Web Version
 

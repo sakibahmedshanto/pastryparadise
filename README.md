@@ -10,6 +10,12 @@ Pastry Paradise is an Android application developed using Flutter. It allows use
 - [Web Version](#web-version)
 - [Contact](#contact)
 
+## Google Play
+
+![App on Google Play](screenshots/googlePlay.png)
+
+Pastry Paradise is available on the Google Play Store. You can download the app [here](https://play.google.com/store/apps/details?id=com.sakibahmedshanto.pastryparadise&pcampaignid=web_share).
+
 ## Features
 
 - **User Authentication**
@@ -59,9 +65,6 @@ Here are some screenshots from the app, grouped to save space:
 
 Pastry Paradise also has a web app version designed for mobile devices. You can access it [here](https://saimas-pastry-paradise.web.app/).
 
-## Google Play
-
-Pastry Paradise is available on the Google Play Store. You can download the app [here](https://play.google.com/store/apps/details?id=com.sakibahmedshanto.pastryparadise&pcampaignid=web_share).
 
 ## Contact
 
